@@ -1,0 +1,7 @@
+.pet-detail,
+.pet-container {
+  padding: 2rem;
+  background-color: burlywood;
+  border-radius: 2rem;
+  font-family: sans-serif;
+}
